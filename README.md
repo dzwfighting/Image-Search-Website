@@ -11,7 +11,7 @@ You can visit Image Search website at [https://www.myportfoliowebsite.com](https
  - Responsive design for optimal viewing on different devices.
 
 ## Installation
- - Navigate to the project directory: cd imagesearch
+ - Navigate to the project directory: cd image-search-website
  - Install the dependencies: npm install
 
 ## Usage
